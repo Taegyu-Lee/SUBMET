@@ -1,3 +1,4 @@
-Fourier Transform header file and application example is from
+Fourier Transform header file and application example is from 
 
 http://firsttimeprogrammer.blogspot.com/2018/03/calculating-dft-in-c.html
+(dft_main.cpp, dft_module.cpp)
